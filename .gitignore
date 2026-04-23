@@ -1,0 +1,18 @@
+# Output directories
+hunts/
+*.timestamp
+
+# OS & editor
+.DS_Store
+*.swp
+.vscode/
+*.log
+
+# Credentials
+.env
+credentials*
+*.key
+
+# Temp
+tmp/
+*.tmp
