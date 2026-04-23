@@ -16,3 +16,6 @@ credentials*
 # Temp
 tmp/
 *.tmp
+scripts_backup/
+__pycache__/
+*.pyc
